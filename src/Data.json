@@ -1,0 +1,39 @@
+[
+    {
+       "Id":1,
+       "title":"Adopt the pace of nature",
+       "des":"Fresh air is as good for the mind as for the body",
+       "img":"/images/beauty.jpeg"
+    }, 
+    {
+        "Id":2,
+        "title":"Adopt the pace of nature",
+        "des":"Fresh air is as good for the mind as for the body",
+        "img":"/images/beauty.jpeg"
+     },
+     {
+        "Id":3,
+        "title":"Adopt the pace of nature",
+        "des":"Fresh air is as good for the mind as for the body",
+        "img":"/images/beauty.jpeg"
+     },
+     {
+        "Id":4,
+        "title":"Adopt the pace of nature",
+        "des":"Fresh air is as good for the mind as for the body",
+        "img":"/images/beauty.jpeg"
+     },
+     {
+        "Id":5,
+        "title":"Adopt the pace of nature",
+        "des":"Fresh air is as good for the mind as for the body",
+        "img":"/images/beauty.jpeg"
+     },
+     {
+        "Id":6,
+        "title":"Adopt the pace of nature",
+        "des":"Fresh air is as good for the mind as for the body",
+        "img":"/images/beauty.jpeg"
+     }
+
+    ]
